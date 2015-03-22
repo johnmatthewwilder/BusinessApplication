@@ -1,0 +1,2 @@
+C:\Users\Bryce\AppData\Local\Temporary Projects\BusinessApplication\bin\Debug\BusinessApplication.exe.config
+C:\Users\Bryce\Desktop\Tix\BusinessApplication\BusinessApplication\bin\Debug\BusinessApplication.exe.config
